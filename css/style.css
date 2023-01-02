@@ -1,0 +1,272 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f4f6f9;
+    padding: 20px;
+    font-family: Montserrat;
+    width: 1280px;
+}
+
+a{
+    text-decoration: none;
+    color: #828891;
+}
+
+.contact_link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.global_block{
+    background-color: #fff;
+    display: flex;
+    box-shadow: 8px 8px 5px;
+    width: 1200px;
+}
+
+.left_content{
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+.avatar{
+    width: 370px;
+}
+
+.right_block{
+    padding: 110px 90px 110px 90px;
+    background-image: url("../images/background23.png");
+}
+
+.yellow_color{
+    color: #ff6b08;
+}
+
+.contants{
+    margin: 60px 40px 0px 40px;
+}
+
+.contacts_title{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.contact_link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;;
+}
+
+.contact_link2{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.global_tech_skill{
+    margin: 45px 0px 20px 40px;
+}
+
+.tech_skill{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.tech_list{
+    color: #cdd0d3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+ul.icon{
+    list-style-image: url(../images/dot_ul.png);
+}
+
+.global_soft_skill{
+    margin: 45px 0px 20px 40px;
+}
+
+.soft_skill{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.tech_list2{
+    color: #cdd0d3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.position{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 15px;
+}
+
+.my_name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.bio{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4a4f57;
+    letter-spacing: 0.42px;
+    padding-bottom: 50px;
+}
+
+.project{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 10;
+}
+
+.links{
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+
+.links2{
+    padding-left: 10px;
+
+}
+
+.work_exp{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 18px;
+}
+
+.period{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #828891;
+}
+
+
+.work_1{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 14px;
+}
+
+.list_1{
+    padding-top: 14px;
+    padding-left: 17px;
+    padding-bottom: 24px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4a4f57;
+    letter-spacing: 0.42px;
+}
+
+.work_2{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 14px;
+}
+
+.list_2{
+    padding-top: 14px;
+    padding-left: 17px;
+    padding-bottom: 24px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4a4f57;
+    letter-spacing: 0.42px;
+}
+
+.work_3{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 14px;
+}
+
+.work_4{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 14px;
+}
+
+.work_5{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 0px;
+}
+
+.list_3{
+    padding-top: 14px;
+    padding-left: 17px;
+    padding-bottom: 55px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4a4f57;
+    letter-spacing: 0.42px;
+}
+
+.list_4{
+    padding-top: 14px;
+    padding-left: 17px;
+    padding-bottom: 55px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4a4f57;
+    letter-spacing: 0.42px;
+}
+
+.gen{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 20px;
+}
+
+.gen_2{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 3px;
+}
+
+.vassal {
+    padding-top: 25px;
+}
